@@ -10,7 +10,7 @@ ARP-Spoofer هو أداة تستخدم لتنفيذ هجمات ARP Spoofing في
 
 لتنفيذ هجمات ARP Spoofing باستخدام ARP-Spoofer، اتبع الخطوات التالية:
 
-1. [تنزيل](https://example.com/arp-spoofer) آخر نسخة من ARP-Spoofer.
+1. [تنزيل]([https://example.com/arp-spoofer](https://github.com/Siverslayer/ARP-Spoofer)) آخر نسخة من ARP-Spoofer.
 2. قم بتثبيت الأداة واتبع التعليمات.
 3. قم بتشغيل ARP-Spoofer وقم بتكوين الهجمة وفقًا لاحتياجاتك.
 
@@ -35,7 +35,7 @@ ARP Spoofing attacks manipulate the data being sent between two devices in a par
 
 To execute ARP Spoofing attacks using ARP-Spoofer, follow these steps:
 
-1. [Download](https://example.com/arp-spoofer) the latest version of ARP-Spoofer.
+1. [Download](https://github.com/Siverslayer/ARP-Spoofer) the latest version of ARP-Spoofer.
 2. Install the tool and follow the instructions.
 3. Run ARP-Spoofer and configure the attack according to your needs.
 
